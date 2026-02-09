@@ -1,4 +1,4 @@
-# Selam! Ben Muhammet Taha Duman
+# Ben Muhammet Taha Duman
 
 Modern backend mimarileri ve yapay zeka entegrasyonları üzerine odaklanmış bir Yazılım Geliştiriciyim. Veriyi işlemekten, ölçeklenebilir sistemler kurmaya kadar olan süreçlerde aktif olarak rol alıyorum.
 
